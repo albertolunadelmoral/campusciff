@@ -18,4 +18,4 @@
 #Pegamos la direccion en VSC
 
 
-![pegamos la direccion en vsc](https://user-images.githubusercontent.com/45201509/48904801-e2d95d80ee5f-11e8-99f9-926e587ec4bc.png)
+![pegamos la direccion en vsc](https://user-images.githubusercontent.com/45201509/48904840-07353a00-ee60-11e8-9bbb-6eddda52a9ba.png)
