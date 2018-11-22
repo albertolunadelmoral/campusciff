@@ -20,3 +20,17 @@
 
 
 ![pegamos la direccion en vsc](https://user-images.githubusercontent.com/45201509/48904840-07353a00-ee60-11e8-9bbb-6eddda52a9ba.png)
+
+
+
+#Escribimos mensaje y pulsamos Crtl + Enter
+
+
+
+![escribimos mensaje y pulsamos crtl enter](https://user-images.githubusercontent.com/45201509/48906227-18804580-ee64-11e8-97cb-8bffc42daa9e.png)
+
+
+
+#Subimos los archivos al repositorio remoto
+
+
