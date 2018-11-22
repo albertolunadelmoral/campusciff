@@ -88,3 +88,15 @@
 
 
 
+#Visto
+
+
+
+![ya lo he visto](https://user-images.githubusercontent.com/45201509/48906522-04891380-ee65-11e8-9344-ac6a0748a6ef.png)
+
+
+
+#Siguiendo a mi compañero
+
+
+
