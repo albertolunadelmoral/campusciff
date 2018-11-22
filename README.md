@@ -50,3 +50,12 @@
 #Añadiendo gitignore al repositorio
 
 
+
+![anadiendo gitignore al repositorio](https://user-images.githubusercontent.com/45201509/48906371-86c50800-ee64-11e8-952b-a3ceab3dde3d.png)
+
+
+
+#Añadiendo fichero txt
+
+
+
