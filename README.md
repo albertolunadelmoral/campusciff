@@ -34,3 +34,11 @@
 #Subimos los archivos al repositorio remoto
 
 
+
+![subimos los archivos al repositorio remoto](https://user-images.githubusercontent.com/45201509/48906276-3c438b80-ee64-11e8-9987-cbf78781d069.png)
+
+
+
+#Creando archivos en el repositorio local
+
+
