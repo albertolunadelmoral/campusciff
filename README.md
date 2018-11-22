@@ -67,3 +67,11 @@
 
 
 
+![creando la etiqueta nueva](https://user-images.githubusercontent.com/45201509/48906431-b8d66a00-ee64-11e8-9bfd-d2771be7a587.png)
+
+
+
+#Para guardar la etiqueta
+
+
+
