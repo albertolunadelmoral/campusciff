@@ -59,3 +59,11 @@
 
 
 
+![anadiendo fichero txt](https://user-images.githubusercontent.com/45201509/48906396-9f352280-ee64-11e8-8679-5fac7b64ef85.png)
+
+
+
+#Creando la etiqueta nueva
+
+
+
