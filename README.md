@@ -42,3 +42,11 @@
 #Creando archivos en el repositorio local
 
 
+
+![creando archivos en el repositorio local](https://user-images.githubusercontent.com/45201509/48906314-54b3a600-ee64-11e8-9d5a-5be0ce8513c2.png)
+
+
+
+#Añadiendo gitignore al repositorio
+
+
