@@ -222,3 +222,4 @@
 
 
 
+![equipos creados](https://user-images.githubusercontent.com/45201509/48938155-9c900700-ef10-11e8-8c23-aff21c6ff80e.png)
