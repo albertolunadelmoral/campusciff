@@ -143,8 +143,12 @@
 
 
 
+![master hola](https://user-images.githubusercontent.com/45201509/48937846-a9602b00-ef0f-11e8-85ef-aedc2a36ae90.png)
+
+
+
+#v0.2 Adios
+
+
+
 -
-
-
-
-#
