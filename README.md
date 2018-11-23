@@ -113,3 +113,38 @@
 | Javier Padilla  | https://github.com/Javipl   |
 | Alberto Exposito  | https://github.com/alberexgar  |
 | Javier Gilabert  | https://github.com/Javig96   |
+
+
+
+#Creando la Rama
+
+
+
+![creando la rama](https://user-images.githubusercontent.com/45201509/48937691-36ef4b00-ef0f-11e8-9d6b-1b56f53e664f.png)
+
+
+
+#El archivo añadido a la rama nueva
+
+
+-
+
+
+
+#Posicionamos en master y mergeamos
+
+
+
+-
+
+
+
+#Master Hola
+
+
+
+-
+
+
+
+#
