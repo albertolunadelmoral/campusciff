@@ -113,3 +113,113 @@
 | Javier Padilla  | https://github.com/Javipl   |
 | Alberto Exposito  | https://github.com/alberexgar  |
 | Javier Gilabert  | https://github.com/Javig96   |
+
+
+
+#Creando la Rama
+
+
+
+![creando la rama](https://user-images.githubusercontent.com/45201509/48937691-36ef4b00-ef0f-11e8-9d6b-1b56f53e664f.png)
+
+
+
+#El archivo añadido a la rama nueva
+
+
+![el archivo anadido a la rama nueva](https://user-images.githubusercontent.com/45201509/48937810-8b92c600-ef0f-11e8-9586-4a1eb715f3d0.png)
+
+
+
+#Posicionamos en master y mergeamos
+
+
+
+![posicionamos en master y mergeamos](https://user-images.githubusercontent.com/45201509/48937824-9b120f00-ef0f-11e8-8c43-c6d5ef16b6ff.png)
+
+
+
+#Master Hola
+
+
+
+![master hola](https://user-images.githubusercontent.com/45201509/48937846-a9602b00-ef0f-11e8-85ef-aedc2a36ae90.png)
+
+
+
+#v0.2 Adios
+
+
+
+![v0 2 adios](https://user-images.githubusercontent.com/45201509/48937881-c4329f80-ef0f-11e8-8ae4-f9a48075952b.png)
+
+
+
+#Otro Merge
+
+
+
+![otro merge](https://user-images.githubusercontent.com/45201509/48937933-f0e6b700-ef0f-11e8-8787-f80e1338b031.png)
+
+
+
+#Listago de ramas
+
+
+
+![listados de ramas](https://user-images.githubusercontent.com/45201509/48937949-ff34d300-ef0f-11e8-961a-db487694c2ad.png)
+
+
+
+#Arreglando el conflicto
+
+
+
+![arreglando el conflicto](https://user-images.githubusercontent.com/45201509/48937967-0f4cb280-ef10-11e8-935c-792f066af332.png)
+
+
+
+#Creando un tag v0.2
+
+
+
+![creandr un tag v0 2](https://user-images.githubusercontent.com/45201509/48938016-3dca8d80-ef10-11e8-8ad1-58c5bb14474e.png)
+
+
+
+#Borrando ramas v0.2
+
+
+![borrando rama](https://user-images.githubusercontent.com/45201509/48938036-4f139a00-ef10-11e8-874e-a9ca11bbac8d.png)
+
+
+
+#Rama eliminada
+
+
+
+![rama eliminada](https://user-images.githubusercontent.com/45201509/48938071-5fc41000-ef10-11e8-9c5e-764471e8b45c.png)
+
+
+
+#Listado de commit
+
+
+
+![listado de commit](https://user-images.githubusercontent.com/45201509/48938114-7a968480-ef10-11e8-9057-a2612bd18156.png)
+
+
+
+#Organizacion
+
+
+
+![organizacion](https://user-images.githubusercontent.com/45201509/48938128-86824680-ef10-11e8-8517-309e140ce7f8.png)
+
+
+
+#Equipos creados
+
+
+
+![equipos creados](https://user-images.githubusercontent.com/45201509/48938155-9c900700-ef10-11e8-8c23-aff21c6ff80e.png)
