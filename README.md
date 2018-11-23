@@ -190,7 +190,7 @@
 #Borrando ramas v0.2
 
 
--
+![borrando rama](https://user-images.githubusercontent.com/45201509/48938036-4f139a00-ef10-11e8-874e-a9ca11bbac8d.png)
 
 
 
