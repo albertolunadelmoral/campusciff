@@ -175,4 +175,23 @@
 
 
 
+![arreglando el conflicto](https://user-images.githubusercontent.com/45201509/48937967-0f4cb280-ef10-11e8-935c-792f066af332.png)
+
+
+
+#Creando un tag v0.2
+
+
+
 -
+
+
+
+#Borrando ramas v0.2
+
+
+-
+
+
+
+#Rama eliminada
