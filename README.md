@@ -195,3 +195,19 @@
 
 
 #Rama eliminada
+
+
+
+![rama eliminada](https://user-images.githubusercontent.com/45201509/48938071-5fc41000-ef10-11e8-9c5e-764471e8b45c.png)
+
+
+
+#Listado de commit
+
+
+
+-
+
+
+
+#Organizacion
