@@ -238,3 +238,4 @@
 
 
 
+![aceptado el pull request](https://user-images.githubusercontent.com/45201509/48944498-44183400-ef27-11e8-929c-27927f3811f0.png)
