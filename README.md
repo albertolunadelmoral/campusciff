@@ -135,7 +135,7 @@
 
 
 
--
+![posicionamos en master y mergeamos](https://user-images.githubusercontent.com/45201509/48937824-9b120f00-ef0f-11e8-8c43-c6d5ef16b6ff.png)
 
 
 
