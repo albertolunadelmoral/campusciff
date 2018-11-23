@@ -151,4 +151,28 @@
 
 
 
+![v0 2 adios](https://user-images.githubusercontent.com/45201509/48937881-c4329f80-ef0f-11e8-8ae4-f9a48075952b.png)
+
+
+
+#Otro Merge
+
+
+
+-
+
+
+
+#Listago de ramas
+
+
+
+-
+
+
+
+#Arreglando el conflicto
+
+
+
 -
